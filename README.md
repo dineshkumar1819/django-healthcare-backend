@@ -62,7 +62,7 @@ This is a simple **Healthcare Management System** built using **Django** and **D
 ## Setup Instructions
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <project-folder>
 
 # Create virtual environment
