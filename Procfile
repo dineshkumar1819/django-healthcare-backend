@@ -1,1 +1,1 @@
-web: gunicorn django-healthcare-backend.wsgi
+web: gunicorn django_healthcare_backend.wsgi:application
